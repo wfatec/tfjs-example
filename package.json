@@ -1,0 +1,28 @@
+{
+  "name": "tfjs-example",
+  "version": "1.0.0",
+  "description": "learning tensorflow.js from some examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfatec/tfjs-example.git"
+  },
+  "keywords": [
+    "tensorflow.js",
+    "machine-learning",
+    "JavaScript"
+  ],
+  "author": "wfatec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wfatec/tfjs-example/issues"
+  },
+  "homepage": "https://github.com/wfatec/tfjs-example#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.13.4",
+    "@tensorflow/tfjs-node": "^0.1.20"
+  }
+}
